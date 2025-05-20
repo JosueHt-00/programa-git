@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\DELL\\source\\repos\\sl_sucur\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BDA858D8-BD2F-4B66-AFE4-C2EB181714DA}|sucur\\sucur.vcxproj|C:\\Users\\DELL\\source\\repos\\sl_sucur\\sucur\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BDA858D8-BD2F-4B66-AFE4-C2EB181714DA}|sucur\\sucur.vcxproj|solutionrelative:sucur\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDA858D8-BD2F-4B66-AFE4-C2EB181714DA}|sucur\\sucur.vcxproj|C:\\Users\\DELL\\source\\repos\\sl_sucur\\sucur\\conexionBD.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BDA858D8-BD2F-4B66-AFE4-C2EB181714DA}|sucur\\sucur.vcxproj|solutionrelative:sucur\\conexionBD.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDA858D8-BD2F-4B66-AFE4-C2EB181714DA}|sucur\\sucur.vcxproj|C:\\Users\\DELL\\source\\repos\\sl_sucur\\sucur\\sucursal.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BDA858D8-BD2F-4B66-AFE4-C2EB181714DA}|sucur\\sucur.vcxproj|solutionrelative:sucur\\sucursal.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDA858D8-BD2F-4B66-AFE4-C2EB181714DA}|sucur\\sucur.vcxproj|C:\\Users\\DELL\\source\\repos\\sl_sucur\\sucur\\sucursal.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BDA858D8-BD2F-4B66-AFE4-C2EB181714DA}|sucur\\sucur.vcxproj|solutionrelative:sucur\\sucursal.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "sucursal.cpp",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\sl_sucur\\sucur\\sucursal.cpp",
+              "RelativeDocumentMoniker": "sucur\\sucursal.cpp",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\sl_sucur\\sucur\\sucursal.cpp",
+              "RelativeToolTip": "sucur\\sucursal.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-20T00:40:00.715Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "conexionBD.h",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\sl_sucur\\sucur\\conexionBD.h",
+              "RelativeDocumentMoniker": "sucur\\conexionBD.h",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\sl_sucur\\sucur\\conexionBD.h",
+              "RelativeToolTip": "sucur\\conexionBD.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-20T00:29:06.395Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\sl_sucur\\sucur\\main.cpp",
+              "RelativeDocumentMoniker": "sucur\\main.cpp",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\sl_sucur\\sucur\\main.cpp",
+              "RelativeToolTip": "sucur\\main.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-20T00:14:10.737Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "sucursal.h",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\sl_sucur\\sucur\\sucursal.h",
+              "RelativeDocumentMoniker": "sucur\\sucursal.h",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\sl_sucur\\sucur\\sucursal.h",
+              "RelativeToolTip": "sucur\\sucursal.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-20T00:39:37.948Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
